@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1518435189 source:d:\devel\gitrepos\codeblocks\tests\test5\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1518435189 source:d:\devel\gitrepos\codeblocks\memcpuusage\test5\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
